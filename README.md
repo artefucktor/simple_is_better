@@ -1,4 +1,5 @@
 # Simple is better than complex
+
 Конкурс красоты кода от Сбера
 
 ## Описание проекта
